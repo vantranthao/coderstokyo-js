@@ -2,7 +2,7 @@ var myPig = {
     name : 'Hanh',
     age : 19,
     sound : function() {
-        console.log('keu cung ', this.name, 'meowmeowww');
+        console.log('keu cung', this.name, 'meowmeowww nhiee');
     },
     eat : function(fish) {
         this.weight = this.weight + fish.weight;
@@ -10,7 +10,7 @@ var myPig = {
     }
 }
 
-// console.log(myPig.sound);
+console.log(myPig.sound());
 var fish = {
     weight : 46
 };
