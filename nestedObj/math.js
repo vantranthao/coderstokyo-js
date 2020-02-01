@@ -1,5 +1,5 @@
-let userArr = prompt();
+var arr = [0,1,2,3,4,5,6];
+let n = Number(prompt()); // n < arr.length
+arr.length = arr.length - n;
 
-for (let i of userArr) {
-    if ()
-}
+console.log(arr);
