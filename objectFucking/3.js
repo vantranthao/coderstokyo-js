@@ -20,3 +20,4 @@ function arrayTitle(wishlist) {
 }
 
 arrayTitle(wishlist);
+// bai 20 reduce
