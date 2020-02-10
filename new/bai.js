@@ -21,3 +21,5 @@ function showInfo(obj) {
 showInfo(student); // In ra tất cả thông tin của đối tượng
 
 // khong hieu sao test dung het ?
+
+// hello
